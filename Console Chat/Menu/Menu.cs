@@ -25,6 +25,14 @@ namespace Console_Chat.Menu
                     {
                         ResponseCatcher(() => GuestMenu.Inject(data));
                     }
+                    else if(InSystemUser != null)
+                    {
+                        ResponseCatcher(() => MemberMenu.Inject(InSystemUser));
+                    }
+                    else
+                    {
+                        Console.WriteLine(" Menu isn't done yet! try again later");
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -43,6 +51,10 @@ namespace Console_Chat.Menu
             else if(LastResponse.ExitCode == 202)
             {
                 InSystemUser = (User)LastResponse.Content;
+            }
+            else if(LastResponse.ExitCode == 203)
+            {
+                InSystemUser = null;
             }
         }
     }
