@@ -11,6 +11,7 @@ namespace Console_Chat.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string Password { get; set; }
         public SystemRoles Role { get; set; }
         public ICollection<Chat> Chats { get; set; }
     }

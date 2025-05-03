@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Console_Chat.Data
 {
-    class DataContext : DbContext
+    internal class DataContext : DbContext
     {
         public DbSet<Chat> Chats { get; set; }
         public DbSet<Message> Messages { get; set; }

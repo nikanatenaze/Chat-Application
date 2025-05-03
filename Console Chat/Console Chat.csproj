@@ -24,8 +24,7 @@
 
   <ItemGroup>
     <Folder Include="Functionality\ChatFunc\" />
-    <Folder Include="Functionality\UserFunc\" />
-    <Folder Include="Menu\" />
+    <Folder Include="Functionality\MenuFunc\" />
   </ItemGroup>
 
 </Project>
