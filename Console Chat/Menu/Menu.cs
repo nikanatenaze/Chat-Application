@@ -12,8 +12,9 @@ namespace Console_Chat.Menu
 {
     class Menu
     {
-        private static User InSystemUser { get; set; } = null;
+        public static User InSystemUser { get; set; } = null;
         private static MenuResponse LastResponse { get; set; } = null;
+        private static List<MenuResponse> AllResponses { get; set; }
         public static void Inject()
         {
             while(true)
@@ -36,7 +37,7 @@ namespace Console_Chat.Menu
                 }
                 catch (Exception ex)
                 {
-                    Say.Red("Error", $"Message: {ex.Message}");
+                    Console.WriteLine(ex.Message);
                 }
             }
         }
@@ -56,6 +57,7 @@ namespace Console_Chat.Menu
             {
                 InSystemUser = null;
             }
+            AllResponses.Add(LastResponse);
         }
     }
 }

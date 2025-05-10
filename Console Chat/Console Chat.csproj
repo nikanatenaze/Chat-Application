@@ -23,7 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Functionality\ChatFunc\" />
     <Folder Include="Functionality\MenuFunc\" />
   </ItemGroup>
 

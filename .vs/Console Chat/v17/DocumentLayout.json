@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\GitHub\\Chat-Application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\menu\\menubranches\\membermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\menu\\menubranches\\membermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\menu\\menuresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\menu\\menuresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\menu\\menubranches\\guestmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\menu\\menubranches\\guestmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\functionality\\userfunc\\userfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\functionality\\userfunc\\userfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\menu\\menubranches\\guestmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\menu\\menubranches\\guestmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\functionality\\chatfunc\\chatinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\functionality\\chatfunc\\chatinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\functionality\\chatfunc\\chatfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\functionality\\chatfunc\\chatfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\menu\\menuresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|solutionrelative:console chat\\menu\\menuresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24818EDD-F14D-47A0-A71F-C40BBD93CA88}|Console Chat\\Console Chat.csproj|d:\\github\\chat-application\\console chat\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,24 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "ChatInterfaces.cs",
+              "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Functionality\\ChatFunc\\ChatInterfaces.cs",
+              "RelativeDocumentMoniker": "Console Chat\\Functionality\\ChatFunc\\ChatInterfaces.cs",
+              "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Functionality\\ChatFunc\\ChatInterfaces.cs",
+              "RelativeToolTip": "Console Chat\\Functionality\\ChatFunc\\ChatInterfaces.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwBIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:55:35.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatFunc.cs",
+              "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Functionality\\ChatFunc\\ChatFunc.cs",
+              "RelativeDocumentMoniker": "Console Chat\\Functionality\\ChatFunc\\ChatFunc.cs",
+              "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Functionality\\ChatFunc\\ChatFunc.cs",
+              "RelativeToolTip": "Console Chat\\Functionality\\ChatFunc\\ChatFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:45:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MemberMenu.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Menu\\MenuBranches\\MemberMenu.cs",
               "RelativeDocumentMoniker": "Console Chat\\Menu\\MenuBranches\\MemberMenu.cs",
               "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Menu\\MenuBranches\\MemberMenu.cs",
               "RelativeToolTip": "Console Chat\\Menu\\MenuBranches\\MemberMenu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T18:31:59.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Models\\User.cs",
               "RelativeDocumentMoniker": "Console Chat\\Models\\User.cs",
@@ -83,11 +117,12 @@
               "RelativeToolTip": "Console Chat\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:37:49.311Z"
+              "WhenOpened": "2025-05-03T13:37:49.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Console Chat\\Data\\DataContext.cs",
@@ -99,33 +134,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserFunc.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Functionality\\UserFunc\\UserFunc.cs",
               "RelativeDocumentMoniker": "Console Chat\\Functionality\\UserFunc\\UserFunc.cs",
               "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Functionality\\UserFunc\\UserFunc.cs",
               "RelativeToolTip": "Console Chat\\Functionality\\UserFunc\\UserFunc.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwEIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T13:31:01.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Menu\\Menu.cs",
               "RelativeDocumentMoniker": "Console Chat\\Menu\\Menu.cs",
               "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Menu\\Menu.cs",
               "RelativeToolTip": "Console Chat\\Menu\\Menu.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwB0AAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T11:35:45.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20250503182314_update.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Migrations\\20250503182314_update.cs",
               "RelativeDocumentMoniker": "Console Chat\\Migrations\\20250503182314_update.cs",
@@ -143,13 +178,14 @@
               "RelativeDocumentMoniker": "Console Chat\\Menu\\MenuBranches\\GuestMenu.cs",
               "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Menu\\MenuBranches\\GuestMenu.cs",
               "RelativeToolTip": "Console Chat\\Menu\\MenuBranches\\GuestMenu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:15:31.076Z"
+              "WhenOpened": "2025-05-03T12:15:31.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MenuResponse.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Menu\\MenuResponse.cs",
               "RelativeDocumentMoniker": "Console Chat\\Menu\\MenuResponse.cs",
@@ -157,12 +193,11 @@
               "RelativeToolTip": "Console Chat\\Menu\\MenuResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:36:04.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T11:36:04.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Say.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Design\\Say.cs",
               "RelativeDocumentMoniker": "Console Chat\\Design\\Say.cs",
@@ -174,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Custom.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Design\\Custom.cs",
               "RelativeDocumentMoniker": "Console Chat\\Design\\Custom.cs",
@@ -186,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Background.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Design\\Background.cs",
               "RelativeDocumentMoniker": "Console Chat\\Design\\Background.cs",
@@ -198,15 +233,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\Chat-Application\\Console Chat\\Program.cs",
               "RelativeDocumentMoniker": "Console Chat\\Program.cs",
               "ToolTip": "D:\\GitHub\\Chat-Application\\Console Chat\\Program.cs",
               "RelativeToolTip": "Console Chat\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:28:43.537Z"
+              "WhenOpened": "2025-05-03T11:28:43.537Z",
+              "EditorCaption": ""
             }
           ]
         }
